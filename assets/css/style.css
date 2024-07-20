@@ -81,7 +81,7 @@ main{
     font-size: 0.875rem;
     font-weight: 400;
 }
-.action-bar button{
+.general-actions{
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -99,7 +99,9 @@ main{
     color: #FFF;
     background-color: #FF0000;
     width: 160px;
+    border: none;
     border-radius: 5px;
+    margin-left: 46px;
 }
 .statistical-data{
     font-size: 0.875rem;
